@@ -341,6 +341,7 @@ hr {
     color: rgba(0,0,0,0);
     background: #f65e3b;
     background: url('../tile-sets/irrationals/64.jpg'); }
+    box-shadow: 0 0 30px 10px rgba(204, 51, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
   .tile.tile-128 .tile-inner {
     color: #f9f6f2;
     color: rgba(0,0,0,0);
@@ -354,7 +355,6 @@ hr {
   .tile.tile-256 .tile-inner {
     color: #f9f6f2;
     color: rgba(0,0,0,0);
-
     background: url('../tile-sets/irrationals/256.jpg');
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
     font-size: 45px; }
