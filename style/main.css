@@ -325,23 +325,26 @@ hr {
     color: #f9f6f2;
     color: rgba(0,0,0,0);
     background: #f2b179;
-    background: url('../tile-sets/irrationals/8.jpg'); }
+    background: url('../tile-sets/irrationals/8.jpg'); 
+    box-shadow: 0 0 30px 10px rgba(255, 179, 77 ), inset 0 0 0 1px rgba(255, 255, 255, 0.1428); }
   .tile.tile-16 .tile-inner {
     color: #f9f6f2;
     color: rgba(0,0,0,0);
     background: #f59563;
-    background: url('../tile-sets/irrationals/16.jpg'); }
+    background: url('../tile-sets/irrationals/16.jpg'); 
+    box-shadow: 0 0 30px 10px rgba(235. 136, 3 ), inset 0 0 0 1px rgba(255, 255, 255, 0.16286); }
   .tile.tile-32 .tile-inner {
     color: #f9f6f2;
     color: rgba(0,0,0,0);
     background: #f67c5f;
-    background: url('../tile-sets/irrationals/32.jpg'); }
+    background: url('../tile-sets/irrationals/32.jpg'); 
+    box-shadow: 0 0 30px 10px rgba(249,66,7 ), inset 0 0 0 1px rgba(255, 255, 255, 0.18286); }
   .tile.tile-64 .tile-inner {
     color: #f9f6f2;
     color: rgba(0,0,0,0);
     background: #f65e3b;
-    background: url('../tile-sets/irrationals/64.jpg'); }
-    box-shadow: 0 0 30px 10px rgba(204, 51, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
+    background: url('../tile-sets/irrationals/64.jpg');
+    box-shadow: 0 0 30px 10px rgba(204, 0,0 ), inset 0 0 0 1px rgba(255, 255, 255, 0.24086);
   .tile.tile-128 .tile-inner {
     color: #f9f6f2;
     color: rgba(0,0,0,0);
